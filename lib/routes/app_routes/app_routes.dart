@@ -4,4 +4,5 @@ class AppRoutes {
   static String homescreen = '/homescreen';
   static String signup_screen = '/signup_screen';
   static String discover = '/discover_screen';
+  static String login_screen = '/login_screen';
 }
